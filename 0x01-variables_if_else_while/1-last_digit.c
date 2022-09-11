@@ -9,7 +9,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
+{i
 	int n;
 	int r;
 
@@ -27,7 +27,7 @@ int main(void)
 	}
 	else
 	{
-		printf("last digit is %i and %i and is less than 6 not 0\n", n, r);
+		printf("last digit of %i is %i and is less than 6 not 0\n", n, r);
 	}
 
 	return (0);
