@@ -8,8 +8,6 @@
  */
 int main(void)
 {
-	int n;
-
 	char l;
 
 	l = '0';
