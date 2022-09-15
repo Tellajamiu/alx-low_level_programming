@@ -1,8 +1,9 @@
 #include <stdio.h>
- /**
- * main - print fibonacco
+
+/**
+ * main - print fibonacca
  *
- * Return: always 0
+ * Return: Always 0
  */
 int main(void)
 {
