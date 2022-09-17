@@ -1,0 +1,30 @@
+#include "main.h"
+
+
+/**
+ * more_numbers - print 01234567891011121314\n x10
+ *
+ * Return: void
+ */
+
+void more_numbers(void)
+{
+	char a, b, c, i;
+
+	for (i = 0; i < 10; i++)
+	{
+		for (c = 0; c <= 14; c++)
+		{
+			if (c < 10)
+				b = c;
+			else
+			{
+				a = c / 1;
+				b = c % 10;
+				putchar('0' + a);
+			}
+			putchar('0' + b);
+		}
+		putchar('\n');
+	}
+}
