@@ -3,7 +3,7 @@
 
 
 /**
- * swap.c - a function that swaps the value of two int
+ * swap_int - a function that swaps the value of two int
  * @a: first int to be swap with b
  * @b: the second with a
  *
