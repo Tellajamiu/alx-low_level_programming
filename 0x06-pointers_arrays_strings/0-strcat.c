@@ -3,7 +3,7 @@
 
 
 /**
- * _strcat.c - a function that concetates two strings
+ * _strcat - a function that concetates two strings
  *
  * @dest: pointer of the first position of destination
  * @src: pointer to the first position of the source
